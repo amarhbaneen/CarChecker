@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "513495521844",
+    "project_id": "careasycheck-66638",
+    "storage_bucket": "careasycheck-66638.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513495521844:android:67b3a84b0e1cc6c58f4861",
+        "android_client_info": {
+          "package_name": "com.example.carchecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513495521844-4497d3jti2t5isqv5fkfrmjpub275t7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuzpLSTh_bkw5d3hG9QvSH_uY3QuNTvLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513495521844-4497d3jti2t5isqv5fkfrmjpub275t7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
